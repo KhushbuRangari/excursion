@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(53, 53, 53);
+}
+
+
+div
+{
+    
+    color: white;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    width:80%;
+    padding: 20px;
+}
+
+
+.one
+{
+    text-align: center;
+    background-color:rgb(2, 2, 2);
+    float: left;
+    margin-left:10%;
+    margin-right: 10%;
+}   
+
+h1{
+    color: white;
+    align-items: center;
+}
+h4{
+    color: white;
+    align-items: center;
+}
+a{
+    color: rgb(155, 248, 209);
+}
+h3{
+    color:grey  ;
+}
